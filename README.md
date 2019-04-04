@@ -14,7 +14,7 @@
 ## 2.1 構築方法
 - SSHでサーバーへ接続する
 
-  OS：`Debian9`　か　`Centos7.5` 限定
+  OS：`Debian9`、`Centos7.5` 限定。
 
 - root権限取得
 
