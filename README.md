@@ -44,7 +44,7 @@ https://github.com/2dust/v2rayN/releases
 `ShadowRocket`
 AppleStoreからダウンロード（有料）
 
-## ASUS Router ##
+## 3.4 ASUS Router ##
 `Koolshare`官改 GT-AC5300例
 
 - 官改固件
