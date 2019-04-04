@@ -49,8 +49,11 @@ AppleStoreからダウンロード（有料）
 
 - 官改固件
 
-- 不可描述Plugin（offline Install）
+  http://koolshare.cn/thread-130902-1-1.html
+  からダウンロード
 
-https://github.com/hq450/fancyss
+- `shadowsocks.tar.gz` 不可描述Plugin（offline Install）
+
+  https://github.com/hq450/fancyss
 
 
