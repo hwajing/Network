@@ -1,9 +1,7 @@
 # 1 VM
-## 1.1 [Google Cloud Platform](https://cloud.google.com/free/?hl=ja) ##
+- [Google Cloud Platform](https://cloud.google.com/free/?hl=ja) ##
 
-
-## 1.2 Bandwagon Host ##
-https://bwh88.net/clientarea.php
+- [Bandwagon Host](https://bwh88.net/clientarea.php)
 
 # 2 V2ray Server
 https://www.v2ray.com/
