@@ -6,6 +6,8 @@
 
 - [Microsoft Azure](https://azure.microsoft.com)　※第3後備
 
+　上記で作成したサーバーIPをまず[IPIP](https://tools.ipip.net/ping.php)で`ping`結果を確認
+
 # 2. V2ray Server
 [V2ray Homepage](https://www.v2ray.com/)
 
