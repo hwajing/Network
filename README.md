@@ -1,6 +1,6 @@
 # 1 VM
-## 1.1 Google Cloud Platform ##
-https://cloud.google.com/free/?hl=ja
+## 1.1 [Google Cloud Platform](https://cloud.google.com/free/?hl=ja) ##
+
 
 ## 1.2 Bandwagon Host ##
 https://bwh88.net/clientarea.php
