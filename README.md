@@ -1,11 +1,11 @@
-# 1 VM
+# 1. VM
 - [Google Cloud Platform](https://cloud.google.com/free/?hl=ja)
 
 - [Bandwagon Host](https://bwh88.net/clientarea.php)
 
 - [Microsoft Azure](https://azure.microsoft.com)
 
-# 2 V2ray Server
+# 2. V2ray Server
 [V2ray Homepage](https://www.v2ray.com/)
 
 ## 2.1 構築方法
