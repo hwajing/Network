@@ -33,7 +33,7 @@ https://www.v2ray.com/
 
 # 3 V2ray Client #
 ## 3.1 Windows ##
-V2rayN
+`V2rayN`
 
 https://github.com/2dust/v2rayN/releases
 
