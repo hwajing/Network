@@ -3,6 +3,8 @@
 
 - [Bandwagon Host](https://bwh88.net/clientarea.php)
 
+- [Microsoft Azure](https://azure.microsoft.com)
+
 # 2 V2ray Server
 https://www.v2ray.com/
 
