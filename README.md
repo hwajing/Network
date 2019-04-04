@@ -3,7 +3,6 @@
 # 1. VM作成
 　お薦めサイト
 - [Google Cloud Platform](https://cloud.google.com/free/?hl=ja)　※1年間の無料トライアルあり
-  Port開放方法：https://2333blog.com/post/30/
 
 - [Bandwagon Host](https://bwh88.net/clientarea.php)　※CN2線路は中国電信に優しい
 
