@@ -30,7 +30,7 @@
 - 接続情報を保存
 
 
-# 3 V2ray Client #
+# 3. V2ray Client #
 ## 3.1 Windows ##
 `V2rayN`
 
