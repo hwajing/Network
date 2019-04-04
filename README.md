@@ -24,7 +24,7 @@
 
   `bash <(curl -s -L https://git.io/v2ray.sh)`
 
-　    基本は全部デフォルト値でEnterキー連発
+　 基本は全部デフォルト値でEnterキー連発
 
 　   　Domainを持っている方は`Websocket＋TLS`がお勧め。Domain申請:[Freenom](https://www.freenom.com)
 
@@ -55,7 +55,7 @@ https://github.com/Cenmrev/V2RayX/releases
 - 官改固件
 
   http://koolshare.cn/thread-130902-1-1.html
-  からダウンロード
+ からダウンロード
 
 - `shadowsocks.tar.gz` 不可描述Plugin（offline Install）
 
