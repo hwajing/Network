@@ -10,18 +10,19 @@ https://bwh88.net/clientarea.php
 https://www.v2ray.com/
 
 ## 2.1 構築方法
-- a. SSHでサーバーへ接続する
+>- a. SSHでサーバーへ接続する
 OS：`Debian9`　か　`Centos7.5` 限定
 
 - b. root権限取得
 
-`sodu -i`
+  `sodu -i`
 
 - c. V2rayをインストール
 
-`bash <(curl -s -L https://git.io/v2ray.sh)`
+  `bash <(curl -s -L https://git.io/v2ray.sh)`
 
 基本は全部デフォルト値でEnterキー連発。
+
 ※Domainを持っている方は`Websocket＋TLS`がお勧め
 SSを配置する必要ありません。
 
