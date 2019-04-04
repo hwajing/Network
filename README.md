@@ -10,14 +10,14 @@ https://bwh88.net/clientarea.php
 https://www.v2ray.com/
 
 ## 2.1 構築方法
-a. SSHでサーバーへ接続する
+- a. SSHでサーバーへ接続する
 OS：`Debian9`　か　`Centos7.5` 限定
 
-b. root権限取得
+- b. root権限取得
 
 `sodu -i`
 
-c. V2rayをインストール
+- c. V2rayをインストール
 
 `bash <(curl -s -L https://git.io/v2ray.sh)`
 
@@ -30,13 +30,14 @@ SSを配置する必要ありません。
 # 3 V2ray Client #
 ## 3.1 Windows ##
 V2rayN
+
 https://github.com/2dust/v2rayN/releases
 
 ## 3.2 Mac ##
 
 
 ## 3.3 iOS ##
-ShadowRocket
+`ShadowRocket`
 AppleStoreからダウンロード（有料）
 
 ## ASUS Router ##
