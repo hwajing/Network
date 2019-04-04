@@ -24,11 +24,9 @@
 
   `bash <(curl -s -L https://git.io/v2ray.sh)`
 
-　     基本は全部デフォルト値でEnterキー連発
+　    基本は全部デフォルト値でEnterキー連発
 
-　     Domainを持っている方は`Websocket＋TLS`がお勧め
-
-       Domain申請:[Freenom](https://www.freenom.com)
+　   　Domainを持っている方は`Websocket＋TLS`がお勧め。Domain申請:[Freenom](https://www.freenom.com)
 
 
 - 接続情報を保存
