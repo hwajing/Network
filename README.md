@@ -1,13 +1,12 @@
 # 1 VM
-## 1.1 Google Cloud Platform ##
-https://cloud.google.com/free/?hl=ja
+- [Google Cloud Platform](https://cloud.google.com/free/?hl=ja)
 
-## 1.2 Bandwagon Host ##
-https://bwh88.net/clientarea.php
+- [Bandwagon Host](https://bwh88.net/clientarea.php)
+
+- [Microsoft Azure](https://azure.microsoft.com)
 
 # 2 V2ray Server
-## 2.0 V2ray ホームページ
-https://www.v2ray.com/
+[V2ray Homepage](https://www.v2ray.com/)
 
 ## 2.1 構築方法
 - SSHでサーバーへ接続する
@@ -42,7 +41,9 @@ https://github.com/2dust/v2rayN/releases
 
 ## 3.3 iOS ##
 `ShadowRocket`
-AppleStoreからダウンロード（有料）
+
+海外AppleStoreからダウンロード（有料）。
+>Support:SS、SSR、V2ray...お薦め
 
 ## 3.4 ASUS Router ##
 `Koolshare`官改 GT-AC5300例
@@ -55,5 +56,10 @@ AppleStoreからダウンロード（有料）
 - `shadowsocks.tar.gz` 不可描述Plugin（offline Install）
 
   https://github.com/hq450/fancyss
+
+
+## 3.5 Android ##
+
+
 
 
