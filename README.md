@@ -11,10 +11,13 @@ SSHでサーバーへ接続する
 
 root権限取得
 
-下記コマンド実施
+`sodu -i`
+
+V2rayをインストール
 
 `bash <(curl -s -L https://git.io/v2ray.sh)`
 
-基本は全部デフォルト値でEnterキー連発。※Domainを持っている方は`Websocket＋TLS`がお勧め
+基本は全部デフォルト値でEnterキー連発。
+※Domainを持っている方は`Websocket＋TLS`がお勧め
 SSを配置する必要ありません。
 
