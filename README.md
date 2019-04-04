@@ -28,6 +28,8 @@ https://www.v2ray.com/
 
 >SSを配置する必要なし
 
+- 接続情報を保存
+
 
 # 3 V2ray Client #
 ## 3.1 Windows ##
