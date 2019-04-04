@@ -1,0 +1,53 @@
+{
+  "inbound": [
+    {
+      "localPort": 2333,
+      "protocol": "socks",
+      "udpEnabled": true
+    }
+  ],
+  "logEnabled": false,
+  "loglevel": "warning",
+  "index": 0,
+  "vmess": [
+    {
+      "configVersion": 2,
+      "address": "www.hwajing.tk",
+      "port": 443,
+      "id": "d48ea252-bb37-48f1-8774-ac7d9b5eed1e",
+      "alterId": 233,
+      "security": "aes-128-gcm",
+      "network": "ws",
+      "remarks": "www.hwajing.tk(google-tw)",
+      "headerType": "none",
+      "requestHost": "www.hwajing.tk",
+      "path": "/",
+      "streamSecurity": "tls",
+      "allowInsecure": "",
+      "configType": 1,
+      "testResult": "2.73 M/s",
+      "subid": ""
+    }
+  ],
+  "muxEnabled": true,
+  "chinasites": false,
+  "chinaip": false,
+  "useragent": [],
+  "userdirect": [],
+  "userblock": [],
+  "kcpItem": {
+    "mtu": 1350,
+    "tti": 50,
+    "uplinkCapacity": 12,
+    "downlinkCapacity": 100,
+    "congestion": false,
+    "readBufferSize": 2,
+    "writeBufferSize": 2
+  },
+  "sysAgentEnabled": false,
+  "listenerType": 1,
+  "urlGFWList": "",
+  "allowLANConn": false,
+  "remoteDNS": "",
+  "subItem": null
+}

@@ -1,0 +1,15 @@
+--------------------------------info[13:24:46]--------------------------------
+System.Exception: v2rayN start up
+
+ 
+--------------------------------ファイル 'C:\Users\hwaji\Downloads\v2ray-windows-64 (1)\user-wininet.json' が見つかりませんでした。[13:24:47]--------------------------------
+System.IO.FileNotFoundException: ファイル 'C:\Users\hwaji\Downloads\v2ray-windows-64 (1)\user-wininet.json' が見つかりませんでした。
+ファイル名 'C:\Users\hwaji\Downloads\v2ray-windows-64 (1)\user-wininet.json' です。'C:\Users\hwaji\Downloads\v2ray-windows-64 (1)\user-wininet.json'
+   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   場所 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   場所 System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   場所 System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   場所 v2rayN.HttpProxyHandler.SysProxyHandle.Read()
+
+ 

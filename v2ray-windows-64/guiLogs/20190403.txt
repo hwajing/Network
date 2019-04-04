@@ -1,0 +1,42 @@
+--------------------------------info[11:00:42]--------------------------------
+System.Exception: v2rayN start up
+
+ 
+--------------------------------info[11:18:29]--------------------------------
+System.Exception: v2rayN start up
+
+ 
+--------------------------------info[11:20:37]--------------------------------
+System.Exception: Webserver prefixes http://127.0.0.1:1082/pac/
+
+ 
+--------------------------------info[11:20:38]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------info[11:21:51]--------------------------------
+System.Exception: Webserver Stop ws
+
+ 
+--------------------------------スレッドの終了またはアプリケーションの要求によって、I/O 処理は中止されました。[11:21:51]--------------------------------
+System.Net.HttpListenerException (0x80004005): スレッドの終了またはアプリケーションの要求によって、I/O 処理は中止されました。
+   場所 System.Net.HttpListener.GetContext()
+   場所 v2rayN.HttpProxyHandler.HttpWebServer.<Run>b__4_0(Object o)
+
+ 
+--------------------------------info[11:23:39]--------------------------------
+System.Exception: Webserver Stop ws
+
+ 
+--------------------------------info[11:23:46]--------------------------------
+System.Exception: Webserver Stop ws
+
+ 
+--------------------------------info[11:24:40]--------------------------------
+System.Exception: Webserver Stop ws
+
+ 
+--------------------------------info[11:35:14]--------------------------------
+System.Exception: v2rayN start up
+
+ 
