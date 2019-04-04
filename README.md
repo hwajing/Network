@@ -6,7 +6,7 @@
 
 - [Microsoft Azure](https://azure.microsoft.com)　※スピードは速くないため、候補として使う
 
-　上記で作成したサーバーIPをまず[IPIP](https://tools.ipip.net/ping.php)で`ping`結果を確認
+　上記で作成したサーバーIPをまず[IPIP](https://tools.ipip.net/ping.php)で`ping`結果を確認し、遅いなら地域を変更して作り直す。
 
 # 2. V2ray Server
 [V2ray Homepage](https://www.v2ray.com/)
