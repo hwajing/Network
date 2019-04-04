@@ -37,7 +37,9 @@
 https://github.com/2dust/v2rayN/releases
 
 ## 3.2 Mac ##
+`V2rayX`
 
+https://github.com/Cenmrev/V2RayX/releases
 
 ## 3.3 iOS ##
 `ShadowRocket`
