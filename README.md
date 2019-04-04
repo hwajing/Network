@@ -6,7 +6,7 @@
 - [Microsoft Azure](https://azure.microsoft.com)
 
 # 2 V2ray Server
-https://www.v2ray.com/
+[V2ray Homepage](https://www.v2ray.com/)
 
 ## 2.1 構築方法
 - SSHでサーバーへ接続する
