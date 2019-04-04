@@ -22,7 +22,7 @@
 
 - V2rayをインストール
 
-  `bash <(curl -s -L https://git.io/v2ray.sh)`
+  `bash <(curl -s -L https://git.io/v2ray.sh)`　←たった1行のコマンドでBBRまで
 
 　 基本は全部デフォルト値でEnterキー連発
 
