@@ -45,4 +45,12 @@ https://github.com/2dust/v2rayN/releases
 AppleStoreからダウンロード（有料）
 
 ## ASUS Router ##
-Meilin or Koolshare
+`Koolshare`官改 GT-AC5300例
+
+- 官改固件
+
+- 不可描述Plugin（offline Install）
+
+https://github.com/hq450/fancyss
+
+
