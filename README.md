@@ -4,7 +4,7 @@
 
 - [Bandwagon Host](https://bwh88.net/clientarea.php)　※CN2線路は中国電信に優しい
 
-- [Microsoft Azure](https://azure.microsoft.com)　※第3後備
+- [Microsoft Azure](https://azure.microsoft.com)　※スピードは速くないため、候補として使う
 
 　上記で作成したサーバーIPをまず[IPIP](https://tools.ipip.net/ping.php)で`ping`結果を確認
 
@@ -63,7 +63,7 @@ https://github.com/Cenmrev/V2RayX/releases
 
 
 ## 3.5 Android ##
-
+中国製設備ならまずはRootから～
 
 
 
