@@ -6,6 +6,9 @@ https://cloud.google.com/free/?hl=ja
 https://bwh88.net/clientarea.php
 
 # 2 V2ray Server
+## 2.0 V2ray ホームページ
+https://www.v2ray.com/
+
 ## 2.1 構築方法
 a. SSHでサーバーへ接続する
 OS：`Debian9`　か　`Centos7.5` 限定
@@ -22,3 +25,19 @@ c. V2rayをインストール
 ※Domainを持っている方は`Websocket＋TLS`がお勧め
 SSを配置する必要ありません。
 
+
+
+# 3 V2ray Client #
+## 3.1 Windows ##
+V2rayN
+https://github.com/2dust/v2rayN/releases
+
+## 3.2 Mac ##
+
+
+## 3.3 iOS ##
+ShadowRocket
+AppleStoreからダウンロード（有料）
+
+## ASUS Router ##
+Meilin or Koolshare
