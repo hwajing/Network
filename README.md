@@ -27,7 +27,8 @@
 　基本は全部デフォルト値でEnterキー連発
 
 　Domainを持っている方は`Websocket＋TLS`がお勧め
-  Domain申請:[Freenom] (https://www.freenom.com)
+  
+  Domain申請:[Freenom](https://www.freenom.com)
 
 - 接続情報を保存
 
