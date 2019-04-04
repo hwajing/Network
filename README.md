@@ -42,7 +42,8 @@ https://github.com/2dust/v2rayN/releases
 ## 3.3 iOS ##
 `ShadowRocket`
 
-AppleStoreからダウンロード（有料）。SS、SSR、V2rayがALL support。お薦め
+海外AppleStoreからダウンロード（有料）。
+>Support:SS、SSR、V2ray...お薦め
 
 ## 3.4 ASUS Router ##
 `Koolshare`官改 GT-AC5300例
