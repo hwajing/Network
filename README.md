@@ -65,7 +65,8 @@ https://github.com/Cenmrev/V2RayX/releases
 ## 3.5 Android ##
 中国製設備ならまずはRootから～
 
-'V2rayNG'
+`V2rayNG`
+
 https://github.com/2dust/v2rayNG/releases
 
 
