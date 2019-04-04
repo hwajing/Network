@@ -22,7 +22,9 @@ OS：`Debian9`　か　`Centos7.5` 限定
   `bash <(curl -s -L https://git.io/v2ray.sh)`
 
 >基本は全部デフォルト値でEnterキー連発
+
 >Domainを持っている方は`Websocket＋TLS`がお勧め
+
 >SSを配置する必要なし
 
 
