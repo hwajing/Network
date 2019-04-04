@@ -9,7 +9,7 @@
 　上記で作成したサーバーIPをまず[IPIP](https://tools.ipip.net/ping.php)で`ping`結果を確認し、遅いなら地域を変更して作り直す。
 
 # 2. V2ray Server
-[V2ray Homepage](https://www.v2ray.com/)
+- 技術関連は[Homepage](https://www.v2ray.com/)を確認
 
 ## 2.1 構築方法
 - SSHでサーバーへ接続する
