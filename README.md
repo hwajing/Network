@@ -42,7 +42,7 @@ https://github.com/2dust/v2rayN/releases
 ## 3.3 iOS ##
 `ShadowRocket`
 
-AppleStoreからダウンロード（有料）
+AppleStoreからダウンロード（有料）。SS、SSR、V2rayがALL support。お薦め
 
 ## 3.4 ASUS Router ##
 `Koolshare`官改 GT-AC5300例
@@ -55,5 +55,10 @@ AppleStoreからダウンロード（有料）
 - `shadowsocks.tar.gz` 不可描述Plugin（offline Install）
 
   https://github.com/hq450/fancyss
+
+
+## 3.5 Android ##
+
+
 
 
