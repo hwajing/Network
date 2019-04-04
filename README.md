@@ -1,9 +1,10 @@
-# 1. VM
-- [Google Cloud Platform](https://cloud.google.com/free/?hl=ja)
+# 1. VM作成
+　お薦めサイト
+- [Google Cloud Platform](https://cloud.google.com/free/?hl=ja)　※1年間の無料トライアルあり
 
-- [Bandwagon Host](https://bwh88.net/clientarea.php)
+- [Bandwagon Host](https://bwh88.net/clientarea.php)　※CN2線路は中国電信に優しい
 
-- [Microsoft Azure](https://azure.microsoft.com)
+- [Microsoft Azure](https://azure.microsoft.com)　※第3後備
 
 # 2. V2ray Server
 [V2ray Homepage](https://www.v2ray.com/)
