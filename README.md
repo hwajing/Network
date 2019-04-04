@@ -7,13 +7,13 @@ https://bwh88.net/clientarea.php
 
 # 2 V2ray Server
 ## 2.1 構築方法
-SSHでサーバーへ接続する
+a. SSHでサーバーへ接続する
 
-root権限取得
+b. root権限取得
 
 `sodu -i`
 
-V2rayをインストール
+c. V2rayをインストール
 
 `bash <(curl -s -L https://git.io/v2ray.sh)`
 
