@@ -1,5 +1,5 @@
 # 1 VM
-- [Google Cloud Platform](https://cloud.google.com/free/?hl=ja) ##
+- [Google Cloud Platform](https://cloud.google.com/free/?hl=ja)
 
 - [Bandwagon Host](https://bwh88.net/clientarea.php)
 
