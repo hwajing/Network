@@ -6,7 +6,6 @@ https://cloud.google.com/free/?hl=ja
 https://bwh88.net/clientarea.php
 
 # 2 V2ray Server
-## 2.0 V2ray ホームページ
 https://www.v2ray.com/
 
 ## 2.1 構築方法
