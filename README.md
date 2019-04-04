@@ -11,7 +11,7 @@ https://www.v2ray.com/
 
 ## 2.1 構築方法
 - a. SSHでサーバーへ接続する
-OS：`Debian9`　か　`Centos7.5` 限定
+  OS：`Debian9`　か　`Centos7.5` 限定
 
 - b. root権限取得
 
