@@ -70,6 +70,18 @@
   
 - 接続情報を保存
 
+2.2 V2ray Client
+2.2.1 Windows
+
+2.2.2 Mac
+
+2.2.3 iOS
+ShadowRocket
+
+海外AppleStoreからダウンロード（有料）。
+
+Support:SS、SSR、V2ray...お薦め
+
 # 3. V2ray
 - 技術関連は[Homepage](https://www.v2ray.com/)を確認
 
