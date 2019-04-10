@@ -70,17 +70,29 @@
   
 - 接続情報を保存
 
-2.2 V2ray Client
-2.2.1 Windows
+## 2.2 SS(R) Client ##
+### 2.2.1 Windows ###
 
-2.2.2 Mac
+### 2.2.2 Mac ###
 
-2.2.3 iOS
-ShadowRocket
+### 2.2.3 iOS ###
+`ShadowRocket`
 
 海外AppleStoreからダウンロード（有料）。
+>Support:SS、SSR、V2ray...お薦め
 
-Support:SS、SSR、V2ray...お薦め
+### 2.2.4 ASUS Router ###
+`Koolshare`官改 GT-AC5300例
+
+- 官改固件
+
+  http://koolshare.cn/thread-130902-1-1.html
+ からダウンロード
+
+- `shadowsocks.tar.gz` 不可描述Plugin（offline Install）
+
+  https://github.com/hq450/fancyss
+
 
 # 3. V2ray
 - 技術関連は[Homepage](https://www.v2ray.com/)を確認
