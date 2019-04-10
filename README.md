@@ -22,13 +22,52 @@
   `sodu -i`
   
 - wgetをインストール
+
  `yum -y install wget`
  
 - SS(R)をインストール
+
  `wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh`
  
-- BBR
+- BBR加速
+  
+  `rpm --import https://www.elrepo.org/RPM-GPG-KEY-elrepo.org`
+  
+  `rpm -Uvh http://www.elrepo.org/elrepo-release-7.0-3.el7.elrepo.noarch.rpm`
+  
+  `yum --enablerepo=elrepo-kernel install kernel-ml -y`
+  
+  `egrep ^menuentry /etc/grub2.cfg | cut -f 2 -d \'`
+  
+  `grub2-set-default 0  # default 0` 表示第一个内核设置为默认运行, 选择最新内核就对了
+  
+ - 再起動
+ 
+  `reboot`
 
+  `modprobe tcp_bbr`
+  
+  `echo "tcp_bbr" >> /etc/modules-load.d/modules.conf`
+  
+  `echo "net.core.default_qdisc=fq" >> /etc/sysctl.conf`
+  
+  `echo "net.ipv4.tcp_congestion_control=bbr" >> /etc/s ysctl.conf`
+  
+  `sysctl -p`
+  
+  -下記実行結果に`bbr`のあることを確認
+ 
+  `sysctl net.ipv4.tcp_available_congestion_control`
+  
+  -下記実行結果に`bbr`のあることを確認
+  
+  `sysctl net.ipv4.tcp_congestion_control`
+  
+  -下記実行結果に`tcp_bbr`のこあることを確認
+  
+  `lsmod | grep bbr`
+  
+  
 - 接続情報を保存
 
 # 3. V2ray
