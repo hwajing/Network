@@ -23,7 +23,7 @@
   
 - wgetをインストール
 
- `yum -y install wget`
+  `yum -y install wget`
  
 - SS(R)をインストール
 
