@@ -72,6 +72,7 @@
 
 ## 2.2 SS(R) Client ##
 ### 2.2.1 Windows ###
+`Shadowsocks`
 
 ### 2.2.2 Mac ###
 
