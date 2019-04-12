@@ -1,0 +1,2166 @@
+[2019-03-26 11:04:34] Shadowsocks started (4.1.5)
+[2019-03-26 11:05:31] Shadowsocks started (4.1.5)
+[2019-03-26 11:07:21] Shadowsocks started (4.1.5)
+[2019-03-26 11:07:54] Shadowsocks started (4.1.5)
+[2019-03-26 11:08:49] 45.76.192.239:2333 timed out
+[2019-03-26 11:12:40] Shadowsocks started (4.1.5)
+[2019-03-26 11:13:04] Shadowsocks started (4.1.5)
+[2019-03-26 11:13:09] Shadowsocks started (4.1.5)
+[2019-03-26 11:13:34] Shadowsocks started (4.1.5)
+[2019-03-26 11:13:45] Shadowsocks started (4.1.5)
+[2019-03-26 11:25:23] Shadowsocks started (4.1.5)
+[2019-03-26 11:25:53] Shadowsocks started (4.1.5)
+[2019-03-26 11:27:13] Shadowsocks started (4.1.5)
+[2019-03-26 11:28:31] Shadowsocks started (4.1.5)
+[2019-03-26 11:28:43] Shadowsocks started (4.1.5)
+[2019-03-26 11:28:57] Shadowsocks started (4.1.5)
+[2019-03-26 11:29:16] Detected: PAC file 'pac.txt' was created.
+[2019-03-26 11:29:52] Detected: User Rule file 'user-rule.txt' was created.
+[2019-03-26 11:29:52] Checking GFWList from https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+[2019-03-26 11:30:12] System.Reflection.TargetInvocationException: 操作中に例外が発生し、結果が無効になりました。  例外の詳細については InnerException を確認してください。 ---> System.Net.WebException: WebClient 要求で例外が発生しました。 ---> System.IO.IOException: トランスポート ストリームから予期しない EOF または 0 バイトを受信しました。
+   場所 System.Net.ConnectStream.EndRead(IAsyncResult asyncResult)
+   場所 System.Net.WebClient.DownloadBitsReadCallbackState(DownloadBitsState state, IAsyncResult result)
+   --- 内部例外スタック トレースの終わり ---
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.ComponentModel.AsyncCompletedEventArgs.RaiseExceptionIfNecessary()
+   場所 Shadowsocks.Controller.GFWListUpdater.http_DownloadStringCompleted(Object sender, DownloadStringCompletedEventArgs e)
+[2019-03-26 11:30:12] Shadowsocks started (4.1.5)
+[2019-03-26 11:30:25] Shadowsocks started (4.1.5)
+[2019-03-26 11:30:30] Shadowsocks started (4.1.5)
+[2019-03-26 11:31:21] 45.76.192.239:2333 timed out
+[2019-03-26 11:31:58] Shadowsocks started (4.1.5)
+[2019-03-26 11:34:56] Shadowsocks started (4.1.5)
+[2019-03-26 11:35:34] Shadowsocks started (4.1.5)
+[2019-03-26 11:36:09] Shadowsocks started (4.1.5)
+[2019-03-26 11:36:30] Shadowsocks started (4.1.5)
+[2019-03-26 11:36:55] 45.76.192.239:2333 timed out
+[2019-03-26 11:36:58] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:00] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:00] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:03] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:04] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:05] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:05] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:08] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:09] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:10] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:10] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:12] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:13] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:13] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:14] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:15] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:15] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:18] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:18] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:18] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:20] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:20] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:20] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:21] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:23] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:23] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:23] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:23] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:25] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:25] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:26] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:28] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:28] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:28] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:30] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:30] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:31] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:31] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:33] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:33] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:33] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:38] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:38] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:38] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:38] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:43] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:43] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:43] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:43] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:44] Shadowsocks started (4.1.5)
+[2019-03-26 11:37:50] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:50] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:50] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:50] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:55] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:55] 45.76.192.239:2333 timed out
+[2019-03-26 11:37:55] 45.76.192.239:2333 timed out
+[2019-03-26 11:38:27] Shadowsocks started (4.1.5)
+[2019-03-26 11:38:38] Shadowsocks started (4.1.5)
+[2019-03-26 11:40:13] Shadowsocks started (4.1.5)
+[2019-03-26 11:48:44] [E] Failed to start SIP003 plugin: 指定されたファイルが見つかりません。
+[2019-03-26 11:48:55] Shadowsocks started (4.1.5)
+[2019-03-26 12:54:33] Shadowsocks started (4.1.5)
+[2019-03-26 12:54:38] Shadowsocks started (4.1.5)
+[2019-03-26 12:55:20] Shadowsocks started (4.1.5)
+[2019-03-26 12:55:30] Shadowsocks started (4.1.5)
+[2019-03-26 13:10:49] Shadowsocks started (4.1.5)
+[2019-03-26 14:20:08] 45.76.192.239:2333 timed out
+[2019-03-26 14:47:37] Shadowsocks started (4.1.5)
+[2019-03-26 14:47:42] Shadowsocks started (4.1.5)
+[2019-03-26 14:48:03] Shadowsocks started (4.1.5)
+[2019-03-26 14:48:29] Shadowsocks started (4.1.5)
+[2019-03-26 14:52:36] System.Net.Sockets.SocketException (0x80004005): 到達できないネットワークでソケット操作を実行しようとしました。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-26 14:52:36] System.Net.Sockets.SocketException (0x80004005): 到達できないネットワークでソケット操作を実行しようとしました。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-26 14:52:45] 45.76.192.239:2333 timed out
+[2019-03-26 14:52:48] 45.76.192.239:2333 timed out
+[2019-03-26 14:52:50] 45.76.192.239:2333 timed out
+[2019-03-26 14:52:52] 45.76.192.239:2333 timed out
+[2019-03-26 14:52:52] 45.76.192.239:2333 timed out
+[2019-03-26 14:52:52] 45.76.192.239:2333 timed out
+[2019-03-26 14:52:53] 45.76.192.239:2333 timed out
+[2019-03-26 14:52:54] 45.76.192.239:2333 timed out
+[2019-03-26 14:52:54] 45.76.192.239:2333 timed out
+[2019-03-26 14:52:55] 45.76.192.239:2333 timed out
+[2019-03-26 14:52:55] 45.76.192.239:2333 timed out
+[2019-03-26 14:52:55] 45.76.192.239:2333 timed out
+[2019-03-26 14:52:55] 45.76.192.239:2333 timed out
+[2019-03-26 14:52:57] 45.76.192.239:2333 timed out
+[2019-03-26 14:52:57] 45.76.192.239:2333 timed out
+[2019-03-26 14:52:58] 45.76.192.239:2333 timed out
+[2019-03-26 14:52:59] 45.76.192.239:2333 timed out
+[2019-03-26 14:52:59] 45.76.192.239:2333 timed out
+[2019-03-26 14:52:59] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:00] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:00] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:01] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:01] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:01] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:02] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:02] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:03] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:03] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:03] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:04] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:04] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:04] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:05] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:05] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:06] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:06] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:06] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:07] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:07] Shadowsocks started (4.1.5)
+[2019-03-26 14:53:13] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:13] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:13] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:13] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:13] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:13] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:13] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:13] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:13] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:13] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:13] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:13] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:13] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:13] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:13] Shadowsocks started (4.1.5)
+[2019-03-26 14:53:19] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:19] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:19] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:19] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:19] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:19] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:19] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:19] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:19] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:20] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:24] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:24] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:24] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:24] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:24] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:24] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:25] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:27] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:29] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:29] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:29] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:29] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:29] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:30] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:30] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:31] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:32] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:34] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:34] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:34] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:34] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:34] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:34] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:35] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:35] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:36] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:36] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:36] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:37] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:38] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:38] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:38] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:39] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:39] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:39] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:39] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:39] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:40] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:41] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:41] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:41] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:43] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:43] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:44] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:44] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:44] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:44] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:46] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:46] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:46] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:47] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:47] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:48] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:49] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:49] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:49] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:49] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:51] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:51] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:51] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:53] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:54] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:54] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:54] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:55] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:55] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:56] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:56] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:56] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:56] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:56] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:59] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:59] 45.76.192.239:2333 timed out
+[2019-03-26 14:53:59] 45.76.192.239:2333 timed out
+[2019-03-26 14:54:00] 45.76.192.239:2333 timed out
+[2019-03-26 14:54:00] 45.76.192.239:2333 timed out
+[2019-03-26 14:54:00] 45.76.192.239:2333 timed out
+[2019-03-26 14:54:00] 45.76.192.239:2333 timed out
+[2019-03-26 14:54:01] 45.76.192.239:2333 timed out
+[2019-03-26 14:54:01] 45.76.192.239:2333 timed out
+[2019-03-26 14:54:02] 45.76.192.239:2333 timed out
+[2019-03-26 14:54:04] 45.76.192.239:2333 timed out
+[2019-03-26 14:54:04] 45.76.192.239:2333 timed out
+[2019-03-26 14:54:05] 45.76.192.239:2333 timed out
+[2019-03-26 14:54:05] 45.76.192.239:2333 timed out
+[2019-03-26 14:54:06] 45.76.192.239:2333 timed out
+[2019-03-26 14:54:09] 45.76.192.239:2333 timed out
+[2019-03-26 14:54:10] 45.76.192.239:2333 timed out
+[2019-03-26 14:54:11] 45.76.192.239:2333 timed out
+[2019-03-26 14:56:21] Shadowsocks started (4.1.5)
+[2019-03-26 15:07:23] Shadowsocks started (4.1.5)
+[2019-03-26 15:22:31] Shadowsocks started (4.1.5)
+[2019-03-26 15:25:01] Shadowsocks started (4.1.5)
+[2019-03-26 15:25:15] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:19] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:19] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:21] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:24] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:27] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:29] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:29] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:29] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:29] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:29] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:32] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:33] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:34] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:34] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:34] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:34] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:35] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:37] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:38] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:38] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:38] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:39] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:39] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:39] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:39] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:41] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:42] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:43] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:43] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:43] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:44] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:44] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:44] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:46] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:46] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:47] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:48] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:48] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:49] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:51] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:51] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:53] 45.76.192.239:2333 timed out
+[2019-03-26 15:25:55] 45.76.192.239:2333 timed out
+[2019-03-26 15:32:46] Shadowsocks started (4.1.5)
+[2019-03-26 15:32:58] Shadowsocks started (4.1.5)
+[2019-03-26 15:33:59] Shadowsocks started (4.1.5)
+[2019-03-26 15:34:12] Shadowsocks started (4.1.5)
+[2019-03-26 15:34:21] Shadowsocks started (4.1.5)
+[2019-03-26 15:39:10] Shadowsocks started (4.1.5)
+[2019-03-26 15:39:29] 45.76.192.239:2333 timed out
+[2019-03-26 15:39:33] 45.76.192.239:2333 timed out
+[2019-03-26 15:39:40] 45.76.192.239:2333 timed out
+[2019-03-26 15:41:42] Shadowsocks started (4.1.5)
+[2019-03-26 16:02:39] Shadowsocks started (4.1.5)
+[2019-03-26 16:28:03] Shadowsocks started (4.1.5)
+[2019-03-26 16:49:50] Shadowsocks started (4.1.5)
+[2019-03-26 16:51:53] Shadowsocks started (4.1.5)
+[2019-03-26 17:07:50] Shadowsocks started (4.1.5)
+[2019-03-26 17:17:20] Shadowsocks started (4.1.5)
+[2019-03-26 17:17:24] Shadowsocks started (4.1.5)
+[2019-03-26 17:46:20] Shadowsocks started (4.1.5)
+[2019-03-26 21:32:06] Shadowsocks started (4.1.5)
+[2019-03-26 21:54:27] Shadowsocks started (4.1.5)
+[2019-03-26 21:56:44] Shadowsocks started (4.1.5)
+[2019-03-27 10:38:58] Shadowsocks started (4.1.5)
+[2019-03-27 11:08:05] Shadowsocks started (4.1.5)
+[2019-03-27 11:08:18] Shadowsocks started (4.1.5)
+[2019-03-27 11:58:47] Shadowsocks started (4.1.5)
+[2019-03-27 12:32:56] Shadowsocks started (4.1.5)
+[2019-03-28 08:48:20] Shadowsocks started (4.1.5)
+[2019-03-28 10:00:08] Shadowsocks started (4.1.5)
+[2019-03-28 10:00:59] Shadowsocks started (4.1.5)
+[2019-03-28 10:02:47] Shadowsocks started (4.1.5)
+[2019-03-28 13:30:38] Shadowsocks started (4.1.5)
+[2019-03-28 13:32:39] Shadowsocks started (4.1.5)
+[2019-03-28 13:33:30] 45.76.192.239:2333 timed out
+[2019-03-28 13:33:30] 45.76.192.239:2333 timed out
+[2019-03-28 13:33:35] 45.76.192.239:2333 timed out
+[2019-03-28 13:33:38] 45.76.192.239:2333 timed out
+[2019-03-28 13:33:40] 45.76.192.239:2333 timed out
+[2019-03-28 13:33:43] 45.76.192.239:2333 timed out
+[2019-03-28 13:33:45] 45.76.192.239:2333 timed out
+[2019-03-28 13:33:50] 45.76.192.239:2333 timed out
+[2019-03-28 13:33:51] 45.76.192.239:2333 timed out
+[2019-03-28 13:33:52] 45.76.192.239:2333 timed out
+[2019-03-28 13:33:52] 45.76.192.239:2333 timed out
+[2019-03-28 13:33:53] 45.76.192.239:2333 timed out
+[2019-03-28 13:33:54] 45.76.192.239:2333 timed out
+[2019-03-28 13:33:55] 45.76.192.239:2333 timed out
+[2019-03-28 13:33:56] 45.76.192.239:2333 timed out
+[2019-03-28 13:33:57] 45.76.192.239:2333 timed out
+[2019-03-28 13:33:59] 45.76.192.239:2333 timed out
+[2019-03-28 13:36:02] 45.76.192.239:2333 timed out
+[2019-03-28 13:46:01] Shadowsocks started (4.1.5)
+[2019-03-28 13:46:07] Shadowsocks started (4.1.5)
+[2019-03-28 13:47:01] Shadowsocks started (4.1.5)
+[2019-03-28 15:12:28] Shadowsocks started (4.1.5)
+[2019-03-28 15:21:34] 45.76.192.239:2333 timed out
+[2019-03-28 15:21:39] 45.76.192.239:2333 timed out
+[2019-03-28 15:21:42] 45.76.192.239:2333 timed out
+[2019-03-28 15:21:44] 45.76.192.239:2333 timed out
+[2019-03-28 15:21:50] 45.76.192.239:2333 timed out
+[2019-03-28 15:21:51] 45.76.192.239:2333 timed out
+[2019-03-28 15:21:55] 45.76.192.239:2333 timed out
+[2019-03-28 15:22:00] 45.76.192.239:2333 timed out
+[2019-03-28 15:22:01] 45.76.192.239:2333 timed out
+[2019-03-28 15:22:01] 45.76.192.239:2333 timed out
+[2019-03-28 15:22:12] 45.76.192.239:2333 timed out
+[2019-03-28 15:22:12] 45.76.192.239:2333 timed out
+[2019-03-28 15:22:14] 45.76.192.239:2333 timed out
+[2019-03-28 15:22:17] 45.76.192.239:2333 timed out
+[2019-03-28 15:22:22] 45.76.192.239:2333 timed out
+[2019-03-28 15:22:27] 45.76.192.239:2333 timed out
+[2019-03-28 15:22:29] 45.76.192.239:2333 timed out
+[2019-03-28 15:22:31] 45.76.192.239:2333 timed out
+[2019-03-28 15:22:53] 45.76.192.239:2333 timed out
+[2019-03-28 15:23:00] 45.76.192.239:2333 timed out
+[2019-03-28 15:23:02] 45.76.192.239:2333 timed out
+[2019-03-28 15:23:07] 45.76.192.239:2333 timed out
+[2019-03-28 15:23:12] 45.76.192.239:2333 timed out
+[2019-03-28 15:23:14] Shadowsocks started (4.1.5)
+[2019-03-28 15:23:34] Shadowsocks started (4.1.5)
+[2019-03-28 15:23:37] Shadowsocks started (4.1.5)
+[2019-03-28 15:24:27] 133.167.79.135:50358 timed out
+[2019-03-28 15:49:55] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:49:55] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:49:55] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:49:56] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:49:56] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:49:56] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:49:57] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:49:57] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:49:57] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:49:57] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:49:59] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:49:59] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:00] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:00] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:01] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:01] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:02] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:02] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:03] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:04] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:04] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:04] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:05] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:08] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:11] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:12] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:13] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:14] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:15] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:15] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:17] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:17] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:22] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:22] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:24] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:24] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:25] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:25] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:28] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:28] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:30] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:40] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:47] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:47] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:49] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:50] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:51] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:51] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:53] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:53] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:54] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:54] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:55] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 15:50:55] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-28 16:27:14] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:25] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:25] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:25] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:30] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:34] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:38] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:41] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:42] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:42] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:43] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:45] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:45] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:45] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:45] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:45] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:45] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:45] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:45] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:45] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:45] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:45] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:45] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:46] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:46] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:46] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:46] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:46] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:48] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:48] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:48] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:49] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:49] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:50] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:50] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:50] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:50] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:50] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:50] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:51] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:51] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:51] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:51] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:51] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:51] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:54] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:54] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:55] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:55] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:56] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:56] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:56] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:56] 133.167.79.135:50358 timed out
+[2019-03-28 16:27:59] 133.167.79.135:50358 timed out
+[2019-03-28 17:11:15] Shadowsocks started (4.1.5)
+[2019-03-28 17:44:00] Shadowsocks started (4.1.5)
+[2019-03-28 17:44:08] Shadowsocks started (4.1.5)
+[2019-03-28 17:51:11] Shadowsocks started (4.1.5)
+[2019-03-28 17:54:13] Shadowsocks started (4.1.5)
+[2019-03-29 08:39:53] Shadowsocks started (4.1.5)
+[2019-03-29 08:40:55] 173.82.235.125:50538 timed out
+[2019-03-29 09:00:29] Shadowsocks started (4.1.5)
+[2019-03-29 09:45:29] Shadowsocks started (4.1.5)
+[2019-03-29 11:01:08] Shadowsocks started (4.1.5)
+[2019-03-29 11:07:27] System.Net.Sockets.SocketException (0x80004005): 到達できないネットワークでソケット操作を実行しようとしました。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-29 11:07:27] System.Net.Sockets.SocketException (0x80004005): 到達できないネットワークでソケット操作を実行しようとしました。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-29 11:07:27] System.Net.Sockets.SocketException (0x80004005): 到達できないネットワークでソケット操作を実行しようとしました。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-29 11:07:27] System.Net.Sockets.SocketException (0x80004005): 到達できないネットワークでソケット操作を実行しようとしました。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-29 11:07:27] System.Net.Sockets.SocketException (0x80004005): 到達できないネットワークでソケット操作を実行しようとしました。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-29 11:07:27] System.Net.Sockets.SocketException (0x80004005): 到達できないネットワークでソケット操作を実行しようとしました。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-03-29 11:07:32] Shadowsocks started (4.1.5)
+[2019-03-29 11:07:38] Shadowsocks started (4.1.5)
+[2019-03-29 11:08:36] Shadowsocks started (4.1.5)
+[2019-03-29 11:08:58] Shadowsocks started (4.1.5)
+[2019-03-29 11:09:01] Shadowsocks started (4.1.5)
+[2019-03-29 11:09:33] Shadowsocks started (4.1.5)
+[2019-03-29 11:09:44] Shadowsocks started (4.1.5)
+[2019-03-29 11:10:23] Shadowsocks started (4.1.5)
+[2019-03-29 11:10:37] Shadowsocks started (4.1.5)
+[2019-03-29 11:10:54] Shadowsocks started (4.1.5)
+[2019-03-29 11:11:04] Shadowsocks started (4.1.5)
+[2019-03-29 11:11:17] Shadowsocks started (4.1.5)
+[2019-03-29 11:11:41] Shadowsocks started (4.1.5)
+[2019-03-29 11:16:10] Shadowsocks started (4.1.5)
+[2019-03-29 13:34:10] Shadowsocks started (4.1.5)
+[2019-03-29 13:34:14] Shadowsocks started (4.1.5)
+[2019-03-29 14:31:16] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:20] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:20] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:20] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:20] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:20] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:20] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:25] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:25] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:25] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:25] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:25] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:25] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:27] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:30] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:30] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:30] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:30] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:30] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:34] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:35] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:35] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:35] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:35] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:35] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:35] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:39] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:41] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:42] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:43] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:44] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:46] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:46] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:46] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:46] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:47] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:48] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:49] 133.167.79.135:50358 timed out
+[2019-03-29 15:01:51] 133.167.79.135:50358 timed out
+[2019-03-29 15:11:46] 133.167.79.135:50358 timed out
+[2019-03-29 15:11:51] 133.167.79.135:50358 timed out
+[2019-03-29 15:11:56] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:00] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:03] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:04] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:05] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:05] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:06] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:07] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:09] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:09] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:10] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:10] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:11] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:12] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:13] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:13] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:14] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:15] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:15] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:16] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:16] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:17] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:17] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:18] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:21] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:22] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:23] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:24] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:26] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:26] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:27] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:27] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:27] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:29] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:32] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:33] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:34] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:34] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:35] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:36] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:37] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:37] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:38] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:39] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:41] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:42] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:43] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:44] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:46] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:46] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:46] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:46] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:47] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:47] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:47] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:47] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:48] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:48] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:51] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:51] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:51] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:51] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:51] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:51] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:52] 133.167.79.135:50358 timed out
+[2019-03-29 15:12:53] 133.167.79.135:50358 timed out
+[2019-03-29 15:13:06] Shadowsocks started (4.1.5)
+[2019-03-29 15:14:34] Shadowsocks started (4.1.5)
+[2019-03-29 15:14:39] Shadowsocks started (4.1.5)
+[2019-03-29 15:15:07] 104.215.11.78:50538 timed out
+[2019-03-29 16:24:56] Shadowsocks started (4.1.5)
+[2019-03-29 16:25:06] 133.167.79.135:50358 timed out
+[2019-03-29 17:03:15] 133.167.79.135:50358 timed out
+[2019-03-29 17:38:26] 133.167.79.135:50358 timed out
+[2019-04-01 08:46:43] Shadowsocks started (4.1.5)
+[2019-04-01 08:58:49] Shadowsocks started (4.1.5)
+[2019-04-01 09:13:11] Shadowsocks started (4.1.5)
+[2019-04-01 09:13:21] Shadowsocks started (4.1.5)
+[2019-04-01 09:13:26] Shadowsocks started (4.1.5)
+[2019-04-01 09:35:03] Shadowsocks started (4.1.5)
+[2019-04-01 09:50:45] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:45] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:45] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:46] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:47] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:47] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:47] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:47] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:47] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:48] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:48] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:48] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:48] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:49] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:49] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:49] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:49] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:50] 133.167.79.135:50358 timed out
+[2019-04-01 09:50:50] 133.167.79.135:50358 timed out
+[2019-04-01 09:50:50] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:51] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:51] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:51] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:51] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:51] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:51] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:51] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:52] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:52] 133.167.79.135:50358 timed out
+[2019-04-01 09:50:52] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:52] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:52] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:53] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:53] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:53] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:54] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:54] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:54] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:55] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:56] 133.167.79.135:50358 timed out
+[2019-04-01 09:50:57] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:57] 133.167.79.135:50358 timed out
+[2019-04-01 09:50:58] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:59] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:59] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:50:59] 133.167.79.135:50358 timed out
+[2019-04-01 09:51:00] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:01] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:01] 133.167.79.135:50358 timed out
+[2019-04-01 09:51:01] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:01] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:02] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:02] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:02] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:03] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:04] 133.167.79.135:50358 timed out
+[2019-04-01 09:51:05] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:05] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:06] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:06] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:07] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:07] 133.167.79.135:50358 timed out
+[2019-04-01 09:51:08] 133.167.79.135:50358 timed out
+[2019-04-01 09:51:09] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:09] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:10] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:11] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:12] 133.167.79.135:50358 timed out
+[2019-04-01 09:51:13] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:16] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:16] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:16] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:17] 133.167.79.135:50358 timed out
+[2019-04-01 09:51:17] 133.167.79.135:50358 timed out
+[2019-04-01 09:51:18] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:20] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:20] 133.167.79.135:50358 timed out
+[2019-04-01 09:51:21] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:22] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:23] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:26] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:26] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:27] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:27] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:27] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:27] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:27] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:28] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:28] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:28] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:28] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:28] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:28] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:28] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:29] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:29] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:29] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:29] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:29] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:29] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:29] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:30] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:30] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:30] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:30] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:30] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:30] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:30] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:30] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:30] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:31] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:31] 133.167.79.135:50358 timed out
+[2019-04-01 09:51:31] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:31] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:32] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:32] 133.167.79.135:50358 timed out
+[2019-04-01 09:51:32] 133.167.79.135:50358 timed out
+[2019-04-01 09:51:32] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:32] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:32] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:33] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:33] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:33] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:33] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:33] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:33] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:33] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:34] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:34] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:34] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:34] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:34] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:34] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:34] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:35] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:35] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:35] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:35] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:35] 133.167.79.135:50358 timed out
+[2019-04-01 09:51:35] 133.167.79.135:50358 timed out
+[2019-04-01 09:51:35] 133.167.79.135:50358 timed out
+[2019-04-01 09:51:35] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:35] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:36] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:36] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:36] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:36] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:36] 133.167.79.135:50358 timed out
+[2019-04-01 09:51:36] 133.167.79.135:50358 timed out
+[2019-04-01 09:51:36] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:37] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:37] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:37] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:37] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:37] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:37] 133.167.79.135:50358 timed out
+[2019-04-01 09:51:37] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:37] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:38] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:38] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:38] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:38] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:38] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:38] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:39] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:39] 133.167.79.135:50358 timed out
+[2019-04-01 09:51:39] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:39] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:39] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:39] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:39] 133.167.79.135:50358 timed out
+[2019-04-01 09:51:40] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:40] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:40] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:41] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:41] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:41] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:41] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:41] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:42] 133.167.79.135:50358 timed out
+[2019-04-01 09:51:42] 133.167.79.135:50358 timed out
+[2019-04-01 09:51:42] 133.167.79.135:50358 timed out
+[2019-04-01 09:51:42] 133.167.79.135:50358 timed out
+[2019-04-01 09:51:42] 133.167.79.135:50358 timed out
+[2019-04-01 09:51:42] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:43] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:43] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:43] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:43] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:43] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:44] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:44] 133.167.79.135:50358 timed out
+[2019-04-01 09:51:44] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:45] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:49] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:49] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:50] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:50] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 09:51:52] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 10:20:12] Shadowsocks started (4.1.5)
+[2019-04-01 13:25:58] Shadowsocks started (4.1.5)
+[2019-04-01 13:27:41] Shadowsocks started (4.1.5)
+[2019-04-01 15:50:39] Shadowsocks started (4.1.5)
+[2019-04-01 15:51:32] Shadowsocks started (4.1.5)
+[2019-04-01 15:53:01] Shadowsocks started (4.1.5)
+[2019-04-01 15:53:34] Checking GFWList from https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+[2019-04-01 15:53:34] Detected: PAC file 'pac.txt' was changed.
+[2019-04-01 15:54:01] Shadowsocks started (4.1.5)
+[2019-04-01 15:54:25] GoogleHK (34.92.223.216:2333) timed out
+[2019-04-01 15:54:49] GoogleHK (34.92.223.216:2333) timed out
+[2019-04-01 15:54:59] GoogleHK (34.92.223.216:2333) timed out
+[2019-04-01 16:18:23] GoogleHK (34.92.223.216:2333) timed out
+[2019-04-01 16:19:40] GoogleHK (34.92.223.216:2333) timed out
+[2019-04-01 16:27:50] GoogleHK (34.92.223.216:2333) timed out
+[2019-04-01 16:45:17] Shadowsocks started (4.1.5)
+[2019-04-01 16:48:44] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:48:44] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:48:44] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:48:44] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:48:44] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:48:46] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:48:46] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:48:46] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:48:46] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:48:47] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:48:47] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:48:47] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:48:47] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:48:47] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:48:48] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:48:48] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:48:48] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:48:48] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:48:51] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:48:52] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:48:53] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:48:54] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:48:55] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:48:55] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:48:56] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:48:56] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:48:57] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:48:57] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:48:58] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:48:59] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:00] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:02] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:02] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:03] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:05] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:06] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:07] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:08] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:13] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:14] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:14] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:15] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:16] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:17] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:17] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:19] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:19] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:20] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:21] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:22] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:23] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:24] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:25] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:26] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:26] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:27] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:27] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:28] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:29] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:29] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:30] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:31] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:31] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:31] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:32] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:32] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:34] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:34] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:35] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:36] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:37] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:38] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:38] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:39] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:40] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:40] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:41] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:41] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:43] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:43] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:44] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:44] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:45] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:45] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:46] 133.167.79.135:50358 timed out
+[2019-04-01 16:49:46] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:48] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:49] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:49] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:50] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:50] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:50] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:51] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:51] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:51] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:51] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:52] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:52] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:52] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:52] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:52] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:53] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 16:49:53] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-01 17:05:13] Shadowsocks started (4.1.5)
+[2019-04-01 17:29:26] Shadowsocks started (4.1.5)
+[2019-04-02 08:45:45] Shadowsocks started (4.1.5)
+[2019-04-02 10:57:37] Shadowsocks started (4.1.5)
+[2019-04-02 10:57:41] Shadowsocks started (4.1.5)
+[2019-04-02 13:47:51] Shadowsocks started (4.1.5)
+[2019-04-02 14:21:56] Shadowsocks started (4.1.5)
+[2019-04-02 15:13:15] Shadowsocks started (4.1.5)
+[2019-04-02 16:00:41] Shadowsocks started (4.1.5)
+[2019-04-02 16:22:32] Shadowsocks started (4.1.5)
+[2019-04-02 17:02:45] Shadowsocks started (4.1.5)
+[2019-04-02 17:12:33] Shadowsocks started (4.1.5)
+[2019-04-03 08:49:35] Shadowsocks started (4.1.5)
+[2019-04-03 09:25:17] Shadowsocks started (4.1.5)
+[2019-04-03 09:45:20] Shadowsocks started (4.1.5)
+[2019-04-03 09:45:26] 133.167.79.135:50358 timed out
+[2019-04-03 09:45:27] 133.167.79.135:50358 timed out
+[2019-04-03 09:45:27] 133.167.79.135:50358 timed out
+[2019-04-03 09:45:32] 133.167.79.135:50358 timed out
+[2019-04-03 09:45:37] 133.167.79.135:50358 timed out
+[2019-04-03 09:45:47] Shadowsocks started (4.1.5)
+[2019-04-03 09:45:56] 133.167.79.135:50358 timed out
+[2019-04-03 09:45:57] 133.167.79.135:50358 timed out
+[2019-04-03 09:45:57] 133.167.79.135:50358 timed out
+[2019-04-03 09:45:57] 133.167.79.135:50358 timed out
+[2019-04-03 09:45:57] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:01] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:01] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:02] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:02] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:02] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:04] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:06] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:07] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:07] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:07] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:07] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:07] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:07] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:07] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:07] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:07] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:07] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:07] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:07] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:08] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:09] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:10] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:12] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:12] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:12] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:12] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:12] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:12] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:12] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:12] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:12] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:13] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:13] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:13] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:14] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:14] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:15] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:17] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:17] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:17] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:17] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:17] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:17] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:17] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:18] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:22] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:22] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:22] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:22] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:22] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:23] 133.167.79.135:50358 timed out
+[2019-04-03 09:46:26] Shadowsocks started (4.1.5)
+[2019-04-03 10:42:24] Shadowsocks started (4.1.5)
+[2019-04-03 10:49:34] BWG (97.64.23.15:50538) timed out
+[2019-04-03 10:49:35] BWG (97.64.23.15:50538) timed out
+[2019-04-03 10:49:40] BWG (97.64.23.15:50538) timed out
+[2019-04-03 10:49:40] BWG (97.64.23.15:50538) timed out
+[2019-04-03 10:49:44] BWG (97.64.23.15:50538) timed out
+[2019-04-03 10:49:44] BWG (97.64.23.15:50538) timed out
+[2019-04-03 10:49:44] BWG (97.64.23.15:50538) timed out
+[2019-04-03 10:49:45] BWG (97.64.23.15:50538) timed out
+[2019-04-03 10:49:45] BWG (97.64.23.15:50538) timed out
+[2019-04-03 10:49:45] BWG (97.64.23.15:50538) timed out
+[2019-04-03 11:00:35] BWG (97.64.23.15:50538) timed out
+[2019-04-03 11:00:36] BWG (97.64.23.15:50538) timed out
+[2019-04-03 11:09:42] Shadowsocks started (4.1.5)
+[2019-04-03 11:19:20] Shadowsocks started (4.1.5)
+[2019-04-03 11:25:24] Shadowsocks started (4.1.5)
+[2019-04-03 11:25:55] Shadowsocks started (4.1.5)
+[2019-04-03 15:37:42] AzureJP (104.215.11.78:50538) timed out
+[2019-04-03 16:26:20] Shadowsocks started (4.1.5)
+[2019-04-03 16:32:42] Shadowsocks started (4.1.5)
+[2019-04-03 17:45:09] Shadowsocks started (4.1.5)
+[2019-04-04 08:47:15] Shadowsocks started (4.1.5)
+[2019-04-04 08:48:38] Shadowsocks started (4.1.5)
+[2019-04-04 08:59:32] Shadowsocks started (4.1.5)
+[2019-04-04 09:51:49] Shadowsocks started (4.1.5)
+[2019-04-04 10:25:09] Shadowsocks started (4.1.5)
+[2019-04-04 13:33:11] Shadowsocks started (4.1.5)
+[2019-04-04 15:34:17] Shadowsocks started (4.1.5)
+[2019-04-04 16:52:21] Shadowsocks started (4.1.5)
+[2019-04-04 17:49:33] Shadowsocks started (4.1.5)
+[2019-04-08 10:29:52] Shadowsocks started (4.1.5)
+[2019-04-08 10:29:56] System.Reflection.TargetInvocationException: 操作中に例外が発生し、結果が無効になりました。  例外の詳細については InnerException を確認してください。 ---> System.Net.WebException: 接続が切断されました: 送信時に、予期しないエラーが発生しました。。 ---> System.IO.IOException: リモート パーティがトランスポート ストリームを終了したため、認証に失敗しました。
+   場所 System.Net.TlsStream.EndWrite(IAsyncResult asyncResult)
+   場所 System.Net.PooledStream.EndWrite(IAsyncResult asyncResult)
+   場所 System.Net.ConnectStream.WriteHeadersCallback(IAsyncResult ar)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   場所 System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   場所 System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+   --- 内部例外スタック トレースの終わり ---
+   場所 System.ComponentModel.AsyncCompletedEventArgs.RaiseExceptionIfNecessary()
+   場所 Shadowsocks.Controller.UpdateChecker.http_DownloadStringCompleted(Object sender, DownloadStringCompletedEventArgs e)
+[2019-04-08 11:07:50] System.Net.Sockets.SocketException (0x80004005): ソケットが以前のシャットダウンの呼び出しでシャットダウンされているため、データの送受信を要求することは禁じられています。
+   場所 System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   場所 Shadowsocks.Controller.PortForwarder.Handler.PipeRemoteSendCallback(IAsyncResult ar)
+[2019-04-08 12:48:41] System.Net.Sockets.SocketException (0x80004005): 到達できないネットワークでソケット操作を実行しようとしました。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-08 12:48:41] System.Net.Sockets.SocketException (0x80004005): 到達できないネットワークでソケット操作を実行しようとしました。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-08 12:48:41] System.Net.Sockets.SocketException (0x80004005): 到達できないネットワークでソケット操作を実行しようとしました。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-08 12:48:41] System.Net.Sockets.SocketException (0x80004005): 到達できないネットワークでソケット操作を実行しようとしました。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-08 12:48:43] System.Net.Sockets.SocketException (0x80004005): 到達できないネットワークでソケット操作を実行しようとしました。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-08 12:48:43] System.Net.Sockets.SocketException (0x80004005): 到達できないネットワークでソケット操作を実行しようとしました。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-08 12:48:46] System.Net.Sockets.SocketException (0x80004005): 到達できないネットワークでソケット操作を実行しようとしました。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-08 12:48:47] System.Net.Sockets.SocketException (0x80004005): 到達できないネットワークでソケット操作を実行しようとしました。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-08 12:48:48] System.Net.Sockets.SocketException (0x80004005): 到達できないネットワークでソケット操作を実行しようとしました。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-08 12:48:48] System.Net.Sockets.SocketException (0x80004005): 到達できないネットワークでソケット操作を実行しようとしました。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-08 12:48:48] System.Net.Sockets.SocketException (0x80004005): 到達できないネットワークでソケット操作を実行しようとしました。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-08 12:48:48] System.Net.Sockets.SocketException (0x80004005): 到達できないネットワークでソケット操作を実行しようとしました。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-08 12:48:48] System.Net.Sockets.SocketException (0x80004005): 到達できないネットワークでソケット操作を実行しようとしました。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-08 12:48:49] System.Net.Sockets.SocketException (0x80004005): 到達できないネットワークでソケット操作を実行しようとしました。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2019-04-08 12:49:57] BWG (97.64.23.15:50538) timed out
+[2019-04-08 12:49:57] BWG (97.64.23.15:50538) timed out
+[2019-04-08 12:49:58] BWG (97.64.23.15:50538) timed out
+[2019-04-08 12:49:58] BWG (97.64.23.15:50538) timed out
+[2019-04-08 12:49:58] BWG (97.64.23.15:50538) timed out
+[2019-04-08 12:49:59] BWG (97.64.23.15:50538) timed out
+[2019-04-08 12:49:59] BWG (97.64.23.15:50538) timed out
+[2019-04-08 12:50:00] BWG (97.64.23.15:50538) timed out
+[2019-04-08 12:50:00] BWG (97.64.23.15:50538) timed out
+[2019-04-08 12:54:28] Shadowsocks started (4.1.5)
+[2019-04-10 08:47:15] Shadowsocks started (4.1.5)
+[2019-04-10 13:17:07] Shadowsocks started (4.1.5)
+[2019-04-10 13:18:32] Shadowsocks started (4.1.5)
+[2019-04-10 15:08:48] Shadowsocks started (4.1.5)
+[2019-04-10 15:37:50] Shadowsocks started (4.1.5)
+[2019-04-10 15:37:51] System.Net.Sockets.SocketException (0x80004005): 対象のコンピューターによって拒否されたため、接続できませんでした。
+   場所 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   場所 Shadowsocks.Controller.PortForwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-04-11 08:52:07] Shadowsocks started (4.1.5)
+[2019-04-12 08:47:02] Shadowsocks started (4.1.5)
