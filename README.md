@@ -101,7 +101,7 @@
 ## 3.1 Server構築方法
 - SSHでサーバーへ接続する
 
-  OS：`Debian9`、`Centos7.5` 限定。
+  OS：`Ubuntu 16+` / `Debian 8+` / `CentOS 7+` 系统
 
 - root権限取得
 
@@ -110,6 +110,9 @@
 - V2rayをインストール
 
   `bash <(curl -s -L https://git.io/v2ray.sh)`　←たった1行のコマンドでBBRまで設定してくれる
+  
+  ubuntu/debian 系统安装 Curl 方法: `apt-get update -y && apt-get install curl -y`
+  centos 系统安装 Curl 方法: `yum update -y && yum install curl -y`
 
 　 基本は全部デフォルト値でEnterキー連発
 
